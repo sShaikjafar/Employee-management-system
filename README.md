@@ -1,4 +1,3 @@
-Employee-management-system
 A RESTful Employee Management System developed using Java, Spring Boot, Spring Data JPA, Hibernate, and MySQL. The application provides CRUD (Create, Read, Update, Delete) operations to manage employee records, including employee names, departments, and salaries. It follows a layered architecture with separate controller, service, repository, and entity components, making the application modular and maintainable.
 Employee Management REST API built with Java 17, Spring Boot, Spring Data JPA, Hibernate, and MySQL, supporting CRUD operations for employee records.
 Employee Management System
